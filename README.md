@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Patito1042
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning Python
